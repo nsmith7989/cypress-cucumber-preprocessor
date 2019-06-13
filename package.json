@@ -50,6 +50,7 @@
     "debug": "^3.0.1",
     "gherkin": "^5.1.0",
     "glob": "^7.1.2",
+    "moment": "^2.24.0",
     "through": "^2.3.8"
   },
   "devDependencies": {
